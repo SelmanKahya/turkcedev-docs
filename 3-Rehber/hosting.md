@@ -6,7 +6,7 @@ slug: hosting
 
 Henüz yapım aşamasında.
 
-## Klasik
+## Klasik yöntem
 
 -
 
